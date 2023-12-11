@@ -11,7 +11,8 @@ import SwiftUI
 struct VideoPlayScreenApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SplashView()
+           // ContentView()
         }
     }
 }
